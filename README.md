@@ -160,7 +160,6 @@ Authors
 -------
 
 * <a href="https://github.com/Iho">Iho</a> Ігор Горобець
-* <a href="https://github.com/MonetaPM">MonetaPM</a> Євгеній Гадібіров
 * <a href="https://github.com/5HT">5HT</a> Максим Сохацький
 
 OM A HUM
