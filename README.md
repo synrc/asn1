@@ -8,8 +8,6 @@ Supported Languages
 
 * C99
 * Swift
-* Rust
-* Go
 * Java
 * TypeScript
 
