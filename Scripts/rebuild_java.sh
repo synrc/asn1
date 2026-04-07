@@ -7,7 +7,7 @@ export ASN1_OUTPUT=Languages/Java/src/main/java/com/generated/asn1/
 # Clone der.java if not present
 if [ ! -d "Languages/Java/der.java" ]; then
     cd Languages/Java
-    git clone https://github.com/iho/der.java
+    git clone https://github.com/zencrypted/der.java
     cd ../..
 fi
 

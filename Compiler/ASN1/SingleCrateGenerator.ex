@@ -28,7 +28,7 @@ defmodule SingleCrateGenerator do
     edition = "2024"
 
     [dependencies]
-    rust-asn1 = { git = "https://github.com/iho/rust-asn1.git" }
+    rust-asn1 = { git = "https://github.com/zencrypted/der.rust" }
     bytes = "1.0"
     chrono = "0.4"
 
